@@ -7,7 +7,7 @@ This assignment provides some practice in how to create and resolve merge confli
 Clone the repo to your laptop using the commands below, after you replace `aaa111` with the first part of your @ucsd.edu email address. Run this code in a terminal in VS Code attached to the RSM-MSBA docker container:
 
 ```bash
-username="aaa111";
+username="jil590";
 git clone git@github.com:rsm-msba-25-26/rsm-gh-merge-conflict-practice-rsm-$username ~/git/rsm-gh-merge-conflict-practice;
 ```
 
@@ -29,7 +29,7 @@ After `cloning` the assignment you should make two commits:
 
 ---
 
-Your name: <Riley Li> Date: <July 25th, 2025>
+Your name: <Riley> Date: <7/25/2025>
 
 ---
 
